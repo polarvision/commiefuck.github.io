@@ -1,2 +1,0 @@
-# polarvision.github.io
-polarvision
