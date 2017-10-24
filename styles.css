@@ -4,20 +4,13 @@
 
 /*Desktop View*/
 
-h5 {
+h2 {
 	/* Apply this selector to the element on which this effects needs to be applied*/
-
-
-
-	
 
 	font-family: "Gotham Light";
 	font-size: 100px;
+	color: white;
 	
-
-   color: transparent;
-
-   text-shadow: 0 0 5px rgba(255,255,255,0.8);
 
 	
 }	
@@ -27,14 +20,17 @@ text {
 
 	
 	font-family: "Gotham Light";
-	font-size: 40px;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+}
+
+
+h1 {
+	font-family: "Gotham Light";
+	font-size: 30px;
 	color: white;
 	text-align: center;
-	
-	   color: transparent;
-
-   text-shadow: 0 0 3px rgba(255,255,255,0.8);
-	
 	
 	
 }
